@@ -1,3 +1,6 @@
-[submodule "rack"]
-	path = rack
-	url = https://github.com/zero5/100kphp.git
+[submodule "bricks"]
+	path = bricks
+	url = https://github.com/zero5/owaspbricks.git
+[submodule "python_web"]
+	path = python_web
+	url = https://github.com/zero5/simple-web-service.git
